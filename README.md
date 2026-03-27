@@ -196,6 +196,14 @@ diabetes-prediction/ │ ├── notebooks/ │   └── diabetes_predictio
 
 ---
 
+## 🎥 Project Walkthrough Video
+
+[Watch the video here]
+
+https://drive.google.com/file/d/118yKRERmD2pKacdc-IcQwqR8jnIK2vr-/view?usp=drive_link
+
+---
+
 ## 👨‍💻 Author
 **Sumit Paul**
 
